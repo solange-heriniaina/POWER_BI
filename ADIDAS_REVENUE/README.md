@@ -1,4 +1,5 @@
 A- DESCRIPTION DU PROJET - ADIDAS REVENUE INSIGHT (US)
+
 Ce projet Power BI a pour objectif d’analyser les performances commerciales d’Adidas aux États-Unis à travers différents indicateurs financiers et opérationnels. Le tableau de bord permet d'explorer l'évolution du chiffre d'affaires, de la rentabilité, des ventes par produit, des canaux de distribution et des performances régionales afin d'identifier les principaux leviers de croissance.
 
  Objectifs des analyses
