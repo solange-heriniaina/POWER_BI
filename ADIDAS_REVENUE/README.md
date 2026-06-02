@@ -79,5 +79,5 @@ Afin d'optimiser les analyses temporelles et les calculs DAX, une table de dates
 Une relation de type One-to-Many (1:*) a été créée entre : la colonne Invoice_date et la colonne Date de Calendar_table
 Cette modélisation permet d'effectuer des analyses temporelles fiables.
 
-RESULTAT:
+D- RESULTAT:
 Le dashboard fournit une vue consolidée des performances commerciales d'Adidas aux États-Unis et facilite la prise de décision grâce à des analyses interactives sur les ventes, la rentabilité, les produits, les régions et les canaux de distribution.
