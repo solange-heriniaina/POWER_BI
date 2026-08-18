@@ -9,11 +9,7 @@ Les analyses réalisées dans ce dashboard couvrent plusieurs axes :
 1. Analyse des indicateurs clés (KPIs)
 
 Suivi des principaux indicateurs de performance :
-Revenue (Chiffre d'affaires total)
-Nombre de produits vendus
-Profit opérationnel
-Nombre de détaillants (Retailers)
-Nombre de villes couvertes
+Revenue (Chiffre d'affaires total), Nombre de produits vendus, Profit, Nombre de détaillants (Retailers), Nombre de villes couvertes
 
 Chaque KPI est comparé à la période précédente afin de mesurer l'évolution en pourcentage (Year-over-Year).
 
@@ -22,44 +18,35 @@ Chaque KPI est comparé à la période précédente afin de mesurer l'évolution
 Visualisation de l'évolution mensuelle : Chiffre d'affaires cumulé, Profit opérationnel cumulé
 
 Cette analyse permet d'identifier :
-Les tendances de croissance au cours de l'année
-Les périodes de forte activité commerciale
-La corrélation entre les ventes et la rentabilité
+- Les tendances de croissance au cours de l'année
+- Les périodes de forte activité commerciale
 
 3. Analyse des méthodes de vente
 
-Répartition du chiffre d'affaires selon les canaux de distribution :
-In-store, Online, Outlet
+Répartition du chiffre d'affaires selon les canaux de distribution : In-store, Online, Outlet
 
 Objectifs :
-Identifier le canal le plus performant
-Mesurer la contribution de chaque canal aux revenus globaux
-Comprendre les habitudes d'achat des clients
+- Identifier le canal le plus performant
+- Mesurer la contribution de chaque canal aux revenus globaux
+- Comprendre les habitudes d'achat des clients
 
 4. Analyse géographique
 
-Analyse du chiffre d'affaires par région :
-West, Northeast, Southeast, Midwest, South
+Analyse du chiffre d'affaires par région : West, Northeast, Southeast, Midwest, South
 
 Cette vue permet :
-D'identifier les régions les plus rentables
-De comparer les performances selon les canaux de vente
-D'orienter les stratégies commerciales régionales
+- D'identifier les régions les plus rentables
+- De comparer les performances selon les canaux de vente
+- D'orienter les stratégies commerciales régionales
 
 5. Analyse des produits
 
-Classement des catégories de produits selon leur chiffre d'affaires :
-Men's Street Footwear
-Women's Apparel
-Men's Athletic Footwear
-Women's Street Footwear
-Men's Apparel
-Women's Athletic Footwear
+Classement des catégories de produits selon leur chiffre d'affaires : Men's Street Footwear, Women's Apparel, Men's Athletic Footwear, Women's Street Footwear, Men's Apparel, Women's Athletic Footwear
 
 Cette analyse aide à :
-Identifier les produits les plus performants
-Comprendre les préférences des consommateurs
-Optimiser les décisions marketing et d'approvisionnement
+- Identifier les produits les plus performants
+- Comprendre les préférences des consommateurs
+- Optimiser les décisions marketing et d'approvisionnement
 
 B- DESCRIPTION DU DATASET
 
